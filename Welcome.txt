@@ -1,0 +1,14 @@
+***********Welcome to Library Management System************
+ ________________________________________________________
+*    With the help of this system, you will be able to:   *
+| - Check details of available books in the library.      |
+| - Generate notes for every transaction.                 |
+| - Update the stock after each transaction.              |
+|*********************************************************|
+|    Enter number from 1 to 4 for what you want to do.    |
+| 1. Register new books.                                  |
+| 2. Check available books to borrow.                     |
+| 3. Return Books.                                        |
+| 4. Exit the program.                                    |
+|                                  Developed By: Sujan Rai|  
+*_________________________________________________________*
